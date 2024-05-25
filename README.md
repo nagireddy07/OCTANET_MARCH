@@ -1,2 +1,2 @@
 # OCTANET_MARCH
-I am curreny doing internship in octanet services 
+I have finished doing internship in octanet services 
